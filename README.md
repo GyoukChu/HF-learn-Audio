@@ -29,11 +29,18 @@
 - Hands-on exercise (Graded)
 
 ## Unit 5: Automatic Speech Recognition
-
+- Pre-trained models for automatic speech recognition (Limitations of CTC, Graduation to Seq2Seq, especially Whisper)
+- Choosing a dataset (Summary of popular datasets, [link](https://huggingface.co/blog/audio-datasets#a-tour-of-audio-datasets-on-the-hub))
+- Evaluation and metrics for speech recognition (Word Error rate (WER))
+- How to fine-tune an ASR system with the Trainer API (Whisper on Common Voice 13 Dhivehi data, note for the Data Collator and evaluation metrics)
+- Build a demo
 - Hands-on exercise (Graded)
 
 ## Unit 6: From Text to Speech
-
+- Text-to-speech datasets (LJSpeech, Multilingual LibriSpeech, VCTK, LibriTTS)
+- Pre-trained models for text-to-speech (SpeechT5 w/ HifiGAN, Bark, Massive Multilingual Speech (MMS))
+- Fine-tuning SpeechT5
+- Evaluating text-to-speech models
 - Hands-on exercise (Graded)
 
 ## Unit 7: Putting It All Together
