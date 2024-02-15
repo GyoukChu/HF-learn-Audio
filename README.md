@@ -1,6 +1,10 @@
 # Certificate
 
+![certificate](./certificate.png)
+
 # Hugging Face Audio Course
+
+Check out my Speech-to-speech translation (in French) model: [STST](https://huggingface.co/spaces/ChuGyouk/speech-to-speech-translation)
 
 ## Unit 1: Working with Audio Data
 
@@ -44,5 +48,7 @@
 - Hands-on exercise (Graded)
 
 ## Unit 7: Putting It All Together
-
+- Speech-to-speech translation (Speech translation -> text-to-speech)
+- Creating a voice assistant (Wake word detection -> Speech transcription -> Language model query -> Synthesise speech)
+- Transcribe a meeting (Speaker diarization)
 - Hands-on exercise (Graded)
